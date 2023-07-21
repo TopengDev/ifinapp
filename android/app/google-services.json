@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "316700965300",
+    "project_id": "ifin-app-ece5c",
+    "storage_bucket": "ifin-app-ece5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316700965300:android:0d43c783dc84ab1a60dae1",
+        "android_client_info": {
+          "package_name": "com.untartechno.ifinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316700965300-theg7ijbr271duoublq0m7jin02nqipf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.untartechno.ifinapp",
+            "certificate_hash": "3d4995c5b375ff7f8885d6bb9280e63ba1582ec9"
+          }
+        },
+        {
+          "client_id": "316700965300-t0ntm8v83nl1ddv6cm6c8e24d3n798bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8A2N284dgOxP5baik4ny8ckovX_0gcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316700965300-t0ntm8v83nl1ddv6cm6c8e24d3n798bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

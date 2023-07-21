@@ -1,4 +1,4 @@
-# financial_apps
+# ifinapp
 
 A new Flutter project.
 
